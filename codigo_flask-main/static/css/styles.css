@@ -1,0 +1,6 @@
+#my-text{
+    color: green;
+}
+.form-control.error small{
+    visibility: visible;
+}
